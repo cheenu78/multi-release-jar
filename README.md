@@ -1,3 +1,5 @@
+With this project, I hope to help someone who is new to the concept of Multi Release Jar and use it effectively. Multi Release Jar was released as part of Java 10.
+
 # multi-release-jar
 
 This uses maven ant plugin to compile and build the jar file. As such I could not find a direct support using maven alone.
